@@ -1,0 +1,6 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="PestManagementSystem">
+    <output-path>$PROJECT_DIR$/out/artifacts/PestManagementSystem</output-path>
+    <root id="archive" name="PestManagementSystem.jar" />
+  </artifact>
+</component>
